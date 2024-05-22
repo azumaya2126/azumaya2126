@@ -1,6 +1,6 @@
 👋 Hi there
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azumaya2126&theme=transparent&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+![](https://skillicons.dev/icons?i=r, ai)
 
 <!---
 azumaya2126/azumaya2126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
