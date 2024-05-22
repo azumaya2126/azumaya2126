@@ -1,6 +1,8 @@
-## :tomato: Hi there
+## :wave: Hi there
+- Graduate School of Business Administration, Kobe University
+- Management Accounting
 
-## My Favorite
+## Tools
 [![My Skills](https://skillicons.dev/icons?i=r,python,ai,ae)](https://skillicons.dev)
 
 ## Languages
