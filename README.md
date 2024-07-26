@@ -2,6 +2,8 @@
 - Graduate School of Business Administration, Kobe University
 - Management Accounting
 
+[my site](https://azumaya2126.github.io/mysite/)
+
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=r,python,ai,ae)](https://skillicons.dev)
 
